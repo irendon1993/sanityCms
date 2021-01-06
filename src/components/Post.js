@@ -1,6 +1,6 @@
 import React from "react"
 
-export default function About() {
-    return <h1>About Page!</h1>
+export default function Post() {
+    return <h1>Post Page!</h1>
     
 }
